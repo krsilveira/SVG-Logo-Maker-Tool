@@ -45,5 +45,6 @@ Installation is required for npm libary for inquirer version 8.2.4, along with j
 
 ## Test Run
 
-run <node main> or <node main.js> in the terminal to start test
-[Video Demonstration Link Here](https://drive.google.com/file/d/1l8PG9AKjNDVWQmM0NiXq4KiYdAA8qRDf/view) node 
+run < node main > or < node main.js > in the terminal to start test
+
+[Video Demonstration Link Here](https://drive.google.com/file/d/1l8PG9AKjNDVWQmM0NiXq4KiYdAA8qRDf/view) 
