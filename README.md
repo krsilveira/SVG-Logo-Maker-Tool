@@ -1,7 +1,14 @@
 # SVG Logo Maker
 
 ## Description
-
+The Project is designed to automatically generate a logo in an SVG file based on the Users inputs. It is built with javascript, inquirer, fs and jest libraries and operates from the commandline terminal. Highlighted proficiencies:
+* NODEjs
+* OOP
+* inquirer
+* fs
+* jest libaries and testing
+* classes/inheritance
+    
 
 
 ## User Story 
@@ -31,8 +38,12 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## Usage
+Installation is required for npm libary for inquirer version 8.2.4, along with jest libaries and initilaize enviorment. Here are the set-up commands:
+>npm i inquirer@8.2.4 <br>
+>npm i jest
+>npm init -y
 
+## Test Run
 
-## Test/Application in use
-
-[Video Demonstration Link Here](https://drive.google.com/file/d/1l8PG9AKjNDVWQmM0NiXq4KiYdAA8qRDf/view)
+run <node main> or <node main.js> in the terminal to start test
+[Video Demonstration Link Here](https://drive.google.com/file/d/1l8PG9AKjNDVWQmM0NiXq4KiYdAA8qRDf/view) node 
